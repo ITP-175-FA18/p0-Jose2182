@@ -13,3 +13,8 @@ let test1 = 6;
 let test2 = 87;
 let test3 = 486;
 let test4 = -40;
+console.log1 cd/test1+cdtest2;
+console.log2(sum)= 93;
+console.log3 cd/test3+cdtest4;
+console.log4(sum)= 446;
+///end

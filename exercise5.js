@@ -16,3 +16,9 @@ let test17 = {
 }
 let test18 = new Date('2018-02-17T06:24:00');
 let test19 = Math;
+console.log1=year(2018);
+console.log2=day(17);
+console.log3=month(02);
+console.log4=hour(24)
+console.log5=min(00)
+///end
